@@ -1,0 +1,136 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# Virtual Environments
+.venv/
+.venvs/
+venv/
+env/
+ENV/
+
+# ROS 2
+build/
+install/
+log/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# C/C++
+*.o
+*.obj
+*.out
+*.a
+*.lib
+*.dll
+*.exe
+*.dylib
+
+# CUDA
+*.ptx
+*.cubin
+*.fatbin
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python Tool Caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+
+# Coverage
+.coverage
+coverage.xml
+htmlcov/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+.env.*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+tmp/
+temp/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Local Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Large AI Model Files
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+
+# Downloaded Datasets
+datasets/
+data/
+
+# Secrets
+*.pem
+*.key
+*.crt
+id_rsa
+id_ed25519
+
+# Trash
+.Trash/
+
+# NVIDIA
+.nv/
+
+# Firefox
+.mozilla/
+
+# Chrome
+.google-chrome/
+
+# Local History
+.history/

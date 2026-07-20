@@ -1,0 +1,12 @@
+[submodule "projects/College/Lattice_Structure_Design"]
+	path = projects/College/Lattice_Structure_Design
+	url = https://github.com/haricharan39/Lattice_Structure_Design.git
+[submodule "projects/College/automatic-colour-weight-sorting-conveyor-belt"]
+	path = projects/College/automatic-colour-weight-sorting-conveyor-belt
+	url = https://github.com/haricharan39/automatic-colour-weight-sorting-conveyor-belt.git
+[submodule "projects/Open_Source/ROS2-Robotics-Learning-Path"]
+	path = projects/Open_Source/ROS2-Robotics-Learning-Path
+	url = https://github.com/haricharan39/ROS2-Robotics-Learning-Path.git
+[submodule "projects/summer_camp/bharat_forge_summer_camp2"]
+	path = projects/summer_camp/bharat_forge_summer_camp2
+	url = https://github.com/haricharan39/bharat_forge_summer_camp2.git
