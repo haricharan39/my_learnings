@@ -18,4 +18,4 @@ print("The sum of " + str(x) + " and " + str(y) + " is " + str(result) + ".\n")
 favorite_color = input("What's your favorite color?\n")
 print("Your favorite color is " + favorite_color + ".\n")
 
-#
+    

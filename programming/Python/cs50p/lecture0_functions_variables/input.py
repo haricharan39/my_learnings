@@ -10,3 +10,9 @@ print("Hello my dear 'friend'!")
 print('Hello my dear \'friend\'!')
 #printing backslash inside a string using escape character
 print("Hello my dear \\friend\\!")
+#using f-strings for cleaner code
+print(f"Hello my dear {name}!")
+#using f-strings for cleaner code with double quotes inside the string
+print(f"Hello my dear \"{name}\"!")
+#using f-strings for cleaner code with single quotes inside the string
+print(f"Hello my dear '{name}'!")
