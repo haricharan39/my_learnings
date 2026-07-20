@@ -13,9 +13,7 @@ y = 4
 # Add x and y and print the result
 result = x + y
 print("The sum of " + str(x) + " and " + str(y) + " is " + str(result) + ".\n")
-
+print(result)  # This will print the result of the addition
 # Ask the user for their favorite color and print a message including their favorite color.
 favorite_color = input("What's your favorite color?\n")
 print("Your favorite color is " + favorite_color + ".\n")
-
-    
