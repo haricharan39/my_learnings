@@ -1,0 +1,6 @@
+print("This is a simple calculator program, the expression is of the form a**3/b*d")
+a = int(input("Enter a value: "))
+b = int(input("Enter b value: "))
+d = int(input("Enter d value: "))
+c = (a**3)/(b*d)
+print(f"The result of the expression is: {c}")
